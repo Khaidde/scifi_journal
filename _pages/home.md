@@ -23,3 +23,5 @@ feature_row:
       btn_label: "Learn More"
       btn_class: "btn--inverse"
 ---
+
+{% include feature_row %}
