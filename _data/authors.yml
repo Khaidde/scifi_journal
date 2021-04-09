@@ -1,0 +1,23 @@
+Aanya Malashetti:
+    name: "Aanya Malashetti"
+    avatar: "/assets/images/profile-pic.jpg"
+    links:
+        - label: "Email"
+          icon: "fas fa-fw fa-envelope-square"
+          url: "mailto:google.com"
+
+Katherine Book:
+    name: "Katherine Book"
+    avatar: "/assets/images/profile-pic.jpg"
+    links:
+        - label: "Email"
+          icon: "fas fa-fw fa-envelope-square"
+          url: "mailto:google.com"
+
+Kathryn Kammerer:
+    name: "Kathryn Kammerer"
+    avatar: "/assets/images/profile-pic.jpg"
+    links:
+        - label: "Email"
+          icon: "fas fa-fw fa-envelope-square"
+          url: "mailto:google.com"

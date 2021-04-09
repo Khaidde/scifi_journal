@@ -1,0 +1,27 @@
+main:
+    - title: "About"
+      url: /about/
+    - title: "Current Issue"
+      url: /spring2021/
+    - title: "Contact"
+      url: /contacts/
+
+spring2021-issue:
+    - title: Essays
+      children:
+          - title: "Artificial Intelligence Essay"
+            url: /spring2021/ai-essay/
+    - title: Reviews
+      children:
+          - title: "Avengers: Age of Ultron - A Stand-Alone to Get the Marvel Ball Rolling"
+            url: /spring2021/review-age-of-ultron/
+    - title: Informative
+      children:
+          - title: "Where AI is Today"
+            url: /spring2021/where-ai-is-today/
+    # - title: Extras
+    # children:
+    # - title: "Other1"
+    # url: /docs/stylesheets/
+    # - title: "Other2"
+    # url: /docs/javascript/
