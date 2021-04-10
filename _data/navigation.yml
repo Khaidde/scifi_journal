@@ -3,8 +3,8 @@ main:
       url: /about/
     - title: "Current Issue"
       url: /spring2021/
-    - title: "Contact"
-      url: /contacts/
+    - title: "Contributors"
+      url: /contributors/
 
 spring2021-issue:
     - title: Essays

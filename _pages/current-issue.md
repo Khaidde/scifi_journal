@@ -1,22 +1,28 @@
 ---
+title: "Spring 2021 Issue"
 layout: single
 permalink: /spring2021/
-# collection: spring2021
-# entries_layout: grid
-# classes: wide
-# sidebar:
-# nav: "spring2021-issue"
-# toc: true
 toc: true
 toc_label: "My Table of Contents"
 toc_icon: "bars"
 
+header:
+    overlay_image: /assets/images/home-header.png
+    overlay_filter: linear-gradient(rgba(20, 20, 20, 0.5), rgba(128, 128, 128, 0.5))
+
 sidebar:
     - title: "Tech Insight, Spring 2021 Issue"
       image: "/assets/images/spring2021-cover.png" # ![image-center](/assets/images/spring2021-cover.jpg){: .align-center}
-      text: "Explore artificial intelligence through essays, reviews and informative pieces"
-    - title: "Contributors"
-      text: "More text here."
+      text: "Explore artificial intelligence and its implications in both fiction and modern society"
+    - title: "Writers"
+      text: "Aanya Malashetti<br />Katherine Book<br />Kathryn Kammerer"
+    # - links:
+    # - label: "Made Mistakes"
+    # icon: "fas fa-fw fa-link"
+    # url: "https://mademistakes.com"
+    # - label: "Twitter"
+    # icon: "fab fa-fw fa-twitter-square"
+    # url: "https://twitter.com/mmistakes"
 ---
 
 ## Essay

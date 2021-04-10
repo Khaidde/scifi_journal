@@ -12,16 +12,10 @@ header:
 feature_row:
     - image_path: /assets/images/spring2021-cover.png
       title: "Spring 2021 Issue"
-      excerpt: "This issue's theme is artificial intelligence. Explore critical essays, movie reviews, informative pieces and so much more"
-      url: "/spring2021/"
-      btn_label: "Learn More"
-      btn_class: "btn--inverse"
-    - image_path: /assets/images/spring2021-cover.png
-      title: "Spring 2021 Issue"
-      excerpt: "This issue's theme is artificial intelligence. Explore critical essays, movie reviews, informative pieces and so much more"
+      excerpt: "Spring 2021 features various written pieces focusing on the implications of super intelligent AI. Explore through various journal pieces including the following: a criticial essay analyzing modern opinions on AI, a review of Avengers: Age of Ultron, and an article discussing the current state of AI."
       url: "/spring2021/"
       btn_label: "Learn More"
       btn_class: "btn--inverse"
 ---
 
-{% include feature_row %}
+{% include feature_row type="left" %}

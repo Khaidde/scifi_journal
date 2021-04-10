@@ -4,7 +4,7 @@ Aanya Malashetti:
     links:
         - label: "Email"
           icon: "fas fa-fw fa-envelope-square"
-          url: "mailto:google.com"
+          url: "mailto:amalashetti3@gatech.edu"
 
 Katherine Book:
     name: "Katherine Book"
@@ -12,7 +12,7 @@ Katherine Book:
     links:
         - label: "Email"
           icon: "fas fa-fw fa-envelope-square"
-          url: "mailto:google.com"
+          url: "mailto:kbook6@gatech.edu"
 
 Kathryn Kammerer:
     name: "Kathryn Kammerer"
@@ -20,4 +20,4 @@ Kathryn Kammerer:
     links:
         - label: "Email"
           icon: "fas fa-fw fa-envelope-square"
-          url: "mailto:google.com"
+          url: "mailto:kkammerer@gatech.edu"
