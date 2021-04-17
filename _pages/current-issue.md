@@ -12,33 +12,27 @@ header:
 
 sidebar:
     - title: "Tech Insight, Spring 2021 Issue"
-      image: "/assets/images/spring2021-cover.png" # ![image-center](/assets/images/spring2021-cover.jpg){: .align-center}
+      image: "/assets/images/spring2021-cover.png"
       text: "Explore artificial intelligence and its implications in both fiction and modern society"
     - title: "Writers"
       text: "Aanya Malashetti<br />Katherine Book<br />Kathryn Kammerer"
-    # - links:
-    # - label: "Made Mistakes"
-    # icon: "fas fa-fw fa-link"
-    # url: "https://mademistakes.com"
-    # - label: "Twitter"
-    # icon: "fab fa-fw fa-twitter-square"
-    # url: "https://twitter.com/mmistakes"
 ---
 
 ## Essay
 
-### Artificial Intelligence Essay
+### Analysis of Artificial Intelligence: Can AI be Controlled?
 
-Artificial Intelligence (AI) is the ability for machines to mimic the perception, problem-solving, critical thinking, and learning often displayed by the human mind. In simpler terms, it’s giving electronic machines the ability to think like the smartest organic living things on the planet. AI is often considered a futuristic concept, shrouded in convoluting mystery, complex science, and sometimes subtle fear. While nowhere yet near its full capacity, many people often wonder about AI’s potential scope. Those speculations range from the outright calamitous to the bleakly hopeful. What both those sides of the argument agree on, however, is that AI’s is growing at a surprising rate, and that its potential right now seems to be almost limitless...
+Artificial intelligence (AI) is the ability for machines to mimic the perception, problem-solving, critical thinking, and learning often displayed by humans. In simpler terms, the idea behind AI is giving electronic machines the ability to think like the smartest organic living things on the planet. AI is often considered a futuristic concept, shrouded in convoluting mystery, complex science, and sometimes subtle fear. While nowhere yet near its full capacity, many people often wonder about AI’s potential. Those speculations have a wide scope, with arguments ranging from the outright calamitous to the bleakly hopeful. What both sides of the argument agree on, however, is that AI is growing at a surprising rate, and that its potential right now seems to be limitless...
 
 <a href="{{site.baseurl}}/spring2021/ai-essay">Read More</a>
 
 ## Review
 
-### Avengers: Age of Ultron - A Stand-Alone to Get the Marvel Ball Rolling
+### _Avengers: Age of Ultron_ - A Sequel and a Prequel?
 
-Let’s take a trip down memory lane to May 2015. Everyone was eagerly waiting for the summer, a break from school, and most importantly for me, the next movie in the Marvel Cinematic Universe (MCU) to come out: Avengers: Age of Ultron. After the successful pilot in the Avengers series (with a 91% on Rotten Tomatoes), and the also hype from the other Marvel films produced after The Avengers (save Iron Man 3- most of us forget that exists), it was safe to say this was one of the most highly anticipated movies of the summer.
-Flash forward 6 years, and I want to revisit this film. I was in 7th grade when Age of Ultron came out (I will shorten it AoU for convenience). I’m now a freshman in college, and I’d say my view of the world has changed a little since then so it might be interesting to go back and analyze AoU with my increased maturity. Also, if you haven’t watched this movie yet, you’re missing a huge chunk of the MCU...
+Let’s take a trip down memory lane to May 2015. Everyone was eagerly waiting for summer break, but, for me, I was more excited for the next Marvel Cinematic Universe (MCU) movie: _Avengers: Age of Ultron_. After the successful pilot in the Avengers series (with a 91% on Rotten Tomatoes), and the hype from the other Marvel films produced after The Avengers (save Iron Man 3—most of us forget that exists), it was safe to say this was the most highly anticipated movie of the summer.
+
+Since six years have now passed, I want to revisit this film. I was in 7th grade when Age of Ultron (AoU) came out. Now as a freshman in college, I would say my view of the world has changed, so it might be interesting to go back and analyze AoU with my increased maturity...
 
 <a href="{{site.baseurl}}/spring2021/review-age-of-ultron">Read More</a>
 
@@ -46,8 +40,6 @@ Flash forward 6 years, and I want to revisit this film. I was in 7th grade when 
 
 ### Where AI is Today
 
-Artificial Intelligence, or AI, has propelled technological innovations to a whole new level. AI can be described as a computer system that can perform tasks that normally require human intelligence.
-
-One incredible recent development that is having a major effect on everyone’s lives right now is how AI helped in the creation of the COVID-19 vaccine. Vaccines usually take years and even decades to develop. This is because of the vast amount of data researchers must go through in this process. However, new machine learning was able to sort through the tens of thousands of the virus’s subcomponents to predict the ones that are most likely to produce an immune response...
+Artificial intelligence, or AI, has propelled technological innovations to a whole new level. AI can be described as a branch of technology that covers a wide range of different computer systems which can perform tasks that normally require human intelligence. In 1950, Alan Turing asked the question that would lead to the creation of AI in his paper “Computing Machinery and Intelligence." His question of “Can machines think?” has had people trying to answer it in the affirmative ever since. Advances in AI have created a shift in nearly every part of the technology industry...
 
 <a href="{{site.baseurl}}/spring2021/where-ai-is-today">Read More</a>
